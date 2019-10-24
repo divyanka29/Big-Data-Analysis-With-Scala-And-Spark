@@ -1,0 +1,7 @@
+[info] Packaging C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week1\wikipedia\target\scala-2.11\bigdata-wikipedia_2.11-0.1-SNAPSHOT.jar ...
+[debug] Input file mappings:
+[debug] 	wikipedia\WikipediaData.scala
+[debug] 	  C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week1\wikipedia\src\main\scala\wikipedia\WikipediaData.scala
+[debug] 	wikipedia\WikipediaRanking.scala
+[debug] 	  C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week1\wikipedia\src\main\scala\wikipedia\WikipediaRanking.scala
+[info] Done packaging.
