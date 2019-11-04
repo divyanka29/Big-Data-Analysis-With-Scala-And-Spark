@@ -25,7 +25,7 @@ object StackOverflow extends StackOverflow {
     val grouped = groupedPostings(raw)
     val scored  = scoredPostings(grouped)
     val vectors = vectorPostings(scored)
-//    assert(vectors.count() == 2121822, "Incorrect number of vectors: " + vectors.count())
+    //assert(vectors.count() == 2121822, "Incorrect number of vectors: " + vectors.count())
 
     val means   = kmeans(sampleVectors(vectors), vectors, debug = true)
     val results = clusterResults(means, vectors)
@@ -79,11 +79,10 @@ class StackOverflow extends Serializable {
   /** Group the questions and answers together */
   def groupedPostings(postings: RDD[Posting]): RDD[(QID, Iterable[(Question, Answer)])] = {
     val questions = postings.filter(x => x.postingType == 1).map(post => (post.id, post))
-    val answers = postings.filter(x => x.postingType != 1).map(post => (post.id, post))
+    val answers = postings.filter(x => x.postingType != 1).map(post => (post.parentId.get, post))
     val all = questions.join(answers)
     all.groupByKey()
   }
-
 
   /** Compute the maximum score for each posting */
   def scoredPostings(grouped: RDD[(QID, Iterable[(Question, Answer)])]): RDD[(Question, HighScore)] = {
@@ -100,7 +99,7 @@ class StackOverflow extends Serializable {
       highScore
     }
 
-    ???
+    grouped.map(v => (v._2.head._1,  answerHighScore(v._2.map(_._2).toArray)))
   }
 
 
@@ -119,8 +118,15 @@ class StackOverflow extends Serializable {
         }
       }
     }
+    val mapped = scored.map((post) => post match {
+      case (question, score) => (firstLangInTag(question.tags, langs), score)
+    })
 
-    ???
+    def onlyValues(a: Any) = a match {
+      case Some(i) => true
+      case _ => false
+    }
+    mapped.filter(post => onlyValues(post._1)).map(post=> (post._1.get * langSpread, post._2 )).cache()
   }
 
 
@@ -174,10 +180,12 @@ class StackOverflow extends Serializable {
   //
 
   /** Main kmeans computation */
-  @tailrec final def kmeans(means: Array[(Int, Int)], vectors: RDD[(Int, Int)], iter: Int = 1, debug: Boolean = false): Array[(Int, Int)] = {
-    val newMeans = means.clone() // you need to compute newMeans
+  @tailrec final def kmeans(means: Array[(Int, Int)], vectors: RDD[(Int, Int)], iter: Int = 1, debug: Boolean = false): Array[(Int, Int)] =
+  {
+    val cluster = vectors.map(v => (findClosest(v, means), v))
+    val clusterAvg = cluster.groupByKey().mapValues(averageVectors).collect().toMap
+    val newMeans = means.indices.map(i => clusterAvg.getOrElse(i, means(i))).toArray
 
-    // TODO: Fill in the newMeans array
     val distance = euclideanDistance(means, newMeans)
 
     if (debug) {
@@ -278,10 +286,17 @@ class StackOverflow extends Serializable {
     val closestGrouped = closest.groupByKey()
 
     val median = closestGrouped.mapValues { vs =>
-      val langLabel: String   = ??? // most common language in the cluster
-      val langPercent: Double = ??? // percent of the questions in the most common language
-      val clusterSize: Int    = ???
-      val medianScore: Int    = ???
+      val langsGroupedScores = vs.groupBy(_._1).mapValues(_.size)
+      val mostCommonLang = langsGroupedScores.maxBy(_._2)
+
+      val langLabel: String   = langs(mostCommonLang._1/langSpread) // most common language in the cluster
+      val langPercent: Double = (mostCommonLang._2 / vs.size.toDouble) * 100.0 // percent of the questions in the most common language
+      val clusterSize: Int    = vs.size
+      val allScores = vs.map(_._2).toList.sorted
+      val medianScore: Int    = allScores.size%2 match {
+        case 0 => (allScores(allScores.size/2) + allScores(allScores.size/2 -1))/2
+        case _ => allScores(allScores.size/2)
+      }
 
       (langLabel, langPercent, clusterSize, medianScore)
     }
@@ -296,4 +311,6 @@ class StackOverflow extends Serializable {
     for ((lang, percent, size, score) <- results)
       println(f"${score}%7d  ${lang}%-17s (${percent}%-5.1f%%)      ${size}%7d")
   }
+
 }
+
