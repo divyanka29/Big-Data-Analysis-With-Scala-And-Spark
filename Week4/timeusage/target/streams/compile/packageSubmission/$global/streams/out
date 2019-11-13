@@ -1,0 +1,5 @@
+[info] Packaging C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\target\scala-2.11\bigdata-timeusage_2.11-0.1-SNAPSHOT.jar ...
+[debug] Input file mappings:
+[debug] 	timeusage\TimeUsage.scala
+[debug] 	  C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala
+[info] Done packaging.

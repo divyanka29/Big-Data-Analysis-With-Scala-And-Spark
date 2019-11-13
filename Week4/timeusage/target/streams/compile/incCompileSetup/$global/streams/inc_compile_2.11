@@ -1,0 +1,468 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\target\scala-2.11\classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.12
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+30 items
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$1.class
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$10.class
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$11.class
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$12.class
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$2.class
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$3.class
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$4$$anonfun$5$$anonfun$apply$1.class
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$4$$anonfun$5.class
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$4$$anonfun$6.class
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$4.class
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$7.class
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$8$$anonfun$apply$2.class
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$8.class
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$9$$anonfun$apply$3.class
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$9.class
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$dfSchema$1.class
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$row$1.class
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$timeUsageGroupedTyped$1.class
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$timeUsageGroupedTyped$2.class
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$timeUsageGroupedTyped$3.class
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$timeUsageGroupedTyped$4.class
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$timeUsageGroupedTyped$5.class
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$timeUsageSummaryTyped$1.class
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$typecreator1$1.class
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$typecreator2$1.class
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$typecreator3$1.class
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$.class
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\target\scala-2.11\classes\timeusage\TimeUsage.class
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\target\scala-2.11\classes\timeusage\TimeUsageRow$.class
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\target\scala-2.11\classes\timeusage\TimeUsageRow.class
+binary dependencies:
+6 items
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Program Files\Java\jdk1.8.0_221\jre\lib\rt.jar
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\dibose\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\spark\spark-catalyst_2.11\2.1.0\spark-catalyst_2.11-2.1.0.jar
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\dibose\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\spark\spark-core_2.11\2.1.0\spark-core_2.11-2.1.0.jar
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\dibose\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\spark\spark-sql_2.11\2.1.0\spark-sql_2.11-2.1.0.jar
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\dibose\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\dibose\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-reflect\2.11.12\scala-reflect-2.11.12.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+30 items
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$1
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$10
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$11
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$12
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$2
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$3
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$4
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$4$$anonfun$5
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$4$$anonfun$5$$anonfun$apply$1
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$4$$anonfun$6
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$7
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$8
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$8$$anonfun$apply$2
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$9
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$9$$anonfun$apply$3
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$dfSchema$1
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$row$1
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$timeUsageGroupedTyped$1
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$timeUsageGroupedTyped$2
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$timeUsageGroupedTyped$3
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$timeUsageGroupedTyped$4
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$timeUsageGroupedTyped$5
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$timeUsageSummaryTyped$1
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$typecreator1$1
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$typecreator2$1
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$typecreator3$1
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsageRow
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsageRow$
+used names:
+293 items
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> $
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> $m
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> $m$untyped
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> $typecreator1
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> $typecreator2
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> $typecreator3
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> $u
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> &&
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> +
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> ::
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> <
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> <=
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> <byname>
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> <init>
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> <repeated>
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> ==
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> ===
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> >=
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> ?0
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> A
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> A1
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> AbstractFunction6
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Any
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> AnyRef
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Array
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> ArrayOps
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> B
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> B1
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Boolean
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Builder
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> CanBuildFrom
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Class
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> ClassLoader
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> ClassSymbol
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> ClassTag
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Col
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Coll
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Column
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> ColumnName
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> DataFrame
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> DataType
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Dataset
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Double
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> DoubleType
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Encoder
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Function1
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Function2
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> GenTraversableOnce
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> IN
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Inclusive
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> IndexOutOfBoundsException
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> IndexedSeq
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Int
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Internal
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Iterable
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Iterator
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> JavaUniverse
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> K
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> KeyValueGroupedDataset
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> List
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Map
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> MatchError
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Metadata
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Mirror
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> ModuleSymbol
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Nil
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> None
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Nothing
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Object
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Option
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Ordering
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Path
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Paths
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Predef
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Product
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> RDD
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Range
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> ReificationSupportApi
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> RelationalGroupedDataset
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> RichInt
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Row
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> ScalaRunTime
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Seq
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Serializable
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> SingleType
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Singleton
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Some
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> SparkContext
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> SparkSession
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Statics
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> String
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> StringContext
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> StringOps
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> StringToColumn
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> StringType
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> StructField
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> StructType
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Symbol
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> T
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> T0
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> T1
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> T2
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> T3
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> T4
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> T5
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> T6
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> That
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> ThisType
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> TimeUsage
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> TimeUsageRow
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Tuple2
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Tuple3
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Tuple4
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Tuple6
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Type
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> TypeCreator
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> TypeRef
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> TypeSymbol
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> TypeTag
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> TypedColumn
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> U
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> U1
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> U2
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> U3
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> URI
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> URL
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Unit
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Universe
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> _$7
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> _1
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> _2
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> _3
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> _4
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> _toString
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> acc
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> age
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> ageProjection
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> agg
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> anyHash
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> apache
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> appName
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> apply
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> as
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> asInstanceOf
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> asModule
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> asType
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> augmentString
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> avg
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> between
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> builder
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> canBuildFrom
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> cast
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> classifiedColumns
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> collection
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> columnNames
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> columns
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> config
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> createDataFrame
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> createOrReplaceTempView
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> data
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> dataFrame
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> df
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> dfSchema
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> distinctCategories
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> divide
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> doubleHash
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> drop
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> empty
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> eq
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> exists
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> expressions
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> file
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> finalDf
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> finalizeHash
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> first
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> flatMap
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> foldLeft
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> fsPath
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> functions
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> get
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> getAs
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> getClass
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> getClassLoader
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> getOrCreate
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> getOrElse
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> getResource
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> groupBy
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> groupByKey
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> groups
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> head
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> headOption
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> headerColumns
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> i
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> immutable
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> implicits
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> index
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> initDf
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> intWrapper
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> internal
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> isInstanceOf
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> it
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> java
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> key
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> line
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> map
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> mapPartitionsWithIndex
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> mapValues
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> materializeClassTag
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> materializeTypeTag
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> math
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> mix
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> moduleClass
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> name
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> ne
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> newDoubleEncoder
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> newProductEncoder
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> nio
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> option2Iterable
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> orderBy
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> org
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> other
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> otherColumns
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> otherProjection
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> otherwise
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> output
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> package
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> prefix
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> primaryNeeds
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> primaryNeedsColumns
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> primaryNeedsProjection
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> rdd
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> read
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> reduce
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> refArrayOps
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> reflect
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> reificationSupport
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> resource
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> round
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> row
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> runtime
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> runtimeMirror
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> s
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> scala
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> scalalang
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> schema
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> select
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> selectType
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> sex
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> sexProjection
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> show
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> sortBy
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> spark
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> sparkContext
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> split
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> sql
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> startsWith
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> staticClass
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> staticModule
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> staticPackage
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> summaryDf
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> summed
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> symbolToColumn
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> tail
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> textFile
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeUsageByLifePeriod
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeUsageGrouped
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeUsageGroupedSqlQuery
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeUsageSummary
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeUsageSummaryDf
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> to
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> toDouble
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> toString
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> toTypeConstructor
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> toURI
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> tuple
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> typed
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> typedProductIterator
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> types
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> unchecked
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> universe
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> viewName
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> when
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> where
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> work
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> workColumns
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> workProjection
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> working
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> workingStatusProjection
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> x
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> zipWithIndex
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> ||
+product stamps:
+30 items
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$1.class -> lastModified(1573658640078)
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$10.class -> lastModified(1573658640089)
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$11.class -> lastModified(1573658640098)
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$12.class -> lastModified(1573658640106)
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$2.class -> lastModified(1573658640116)
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$3.class -> lastModified(1573658640123)
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$4$$anonfun$5$$anonfun$apply$1.class -> lastModified(1573658640168)
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$4$$anonfun$5.class -> lastModified(1573658640147)
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$4$$anonfun$6.class -> lastModified(1573658640178)
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$4.class -> lastModified(1573658640136)
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$7.class -> lastModified(1573658640187)
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$8$$anonfun$apply$2.class -> lastModified(1573658640203)
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$8.class -> lastModified(1573658640196)
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$9$$anonfun$apply$3.class -> lastModified(1573658640225)
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$9.class -> lastModified(1573658640214)
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$dfSchema$1.class -> lastModified(1573658640233)
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$row$1.class -> lastModified(1573658640242)
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$timeUsageGroupedTyped$1.class -> lastModified(1573658640252)
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$timeUsageGroupedTyped$2.class -> lastModified(1573658640277)
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$timeUsageGroupedTyped$3.class -> lastModified(1573658640309)
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$timeUsageGroupedTyped$4.class -> lastModified(1573658640318)
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$timeUsageGroupedTyped$5.class -> lastModified(1573658640326)
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$timeUsageSummaryTyped$1.class -> lastModified(1573658640334)
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$typecreator1$1.class -> lastModified(1573658640344)
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$typecreator2$1.class -> lastModified(1573658640353)
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$typecreator3$1.class -> lastModified(1573658640362)
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$.class -> lastModified(1573658640055)
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\target\scala-2.11\classes\timeusage\TimeUsage.class -> lastModified(1573658639940)
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\target\scala-2.11\classes\timeusage\TimeUsageRow$.class -> lastModified(1573658640394)
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\target\scala-2.11\classes\timeusage\TimeUsageRow.class -> lastModified(1573658640384)
+source stamps:
+1 items
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> hash(319b0f3b910b2921bb43abedd28066dcc18f09b6)
+binary stamps:
+6 items
+C:\Program Files\Java\jdk1.8.0_221\jre\lib\rt.jar -> lastModified(1568255654472)
+C:\Users\dibose\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\spark\spark-catalyst_2.11\2.1.0\spark-catalyst_2.11-2.1.0.jar -> lastModified(1481872148000)
+C:\Users\dibose\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\spark\spark-core_2.11\2.1.0\spark-core_2.11-2.1.0.jar -> lastModified(1481871925000)
+C:\Users\dibose\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\spark\spark-sql_2.11\2.1.0\spark-sql_2.11-2.1.0.jar -> lastModified(1481872304000)
+C:\Users\dibose\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar -> lastModified(1509673049000)
+C:\Users\dibose\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-reflect\2.11.12\scala-reflect-2.11.12.jar -> lastModified(1509673056000)
+class names:
+6 items
+C:\Program Files\Java\jdk1.8.0_221\jre\lib\rt.jar -> java.lang.Object
+C:\Users\dibose\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\spark\spark-catalyst_2.11\2.1.0\spark-catalyst_2.11-2.1.0.jar -> org.apache.spark.sql.types.DataType
+C:\Users\dibose\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\spark\spark-core_2.11\2.1.0\spark-core_2.11-2.1.0.jar -> org.apache.spark.SparkContext
+C:\Users\dibose\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\spark\spark-sql_2.11\2.1.0\spark-sql_2.11-2.1.0.jar -> org.apache.spark.sql.TypedColumn
+C:\Users\dibose\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar -> scala.Serializable
+C:\Users\dibose\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-reflect\2.11.12\scala-reflect-2.11.12.jar -> scala.reflect.api.TypeCreator
+internal apis:
+1 items
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw6dXyrgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAA3c3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwKZR39HQABm5vdGlmeXNxAH4ADCVVLqd0AARyZWFkc3EAfgAMjoGnonQAB3dvcmtpbmdzcQB+AAwevaWgdAAEd2FpdHNxAH4ADLOh6N90AA5jb3B5JGRlZmF1bHQkMnNxAH4ADGCE0Et0AA0kYXNJbnN0YW5jZU9mc3EAfgAM28hZ6HQAFXRpbWVVc2FnZUdyb3VwZWRUeXBlZHNxAH4ADAfq4zB0AA5jb3B5JGRlZmF1bHQkNXNxAH4ADDoT63d0AAxUaW1lVXNhZ2VSb3dzcQB+AAzjzwvKdAAMcHJvZHVjdEFyaXR5c3EAfgAMpRm+7XQABmVxdWFsc3NxAH4ADGR2NPh0AAlUaW1lVXNhZ2VzcQB+AAzPBWKMdAAMYXNJbnN0YW5jZU9mc3EAfgAMyM78oHQAE3RpbWVVc2FnZUdyb3VwZWRTcWxzcQB+AAxltjLVdAAMc3luY2hyb25pemVkc3EAfgAMVtYRzHQADSRpc0luc3RhbmNlT2ZzcQB+AAwg9rr+dAAGZnNQYXRoc3EAfgAMHdl//HQACGNhbkVxdWFsc3EAfgAMA8Gl03QAEHRpbWVVc2FnZVN1bW1hcnlzcQB+AAw36CFYdAADcm93c3EAfgAMkMtr/HQAEWNsYXNzaWZpZWRDb2x1bW5zc3EAfgAMkAbMBnQADmNvcHkkZGVmYXVsdCQ0c3EAfgAM6NRtAHQABG1haW5zcQB+AAyn0FbudAANcHJvZHVjdFByZWZpeHNxAH4ADDngaN50AANhZ2VzcQB+AAz7pbPGdAAEd29ya3NxAH4ADBWEmu50AAlub3RpZnlBbGxzcQB+AAz0JYxNdAAVdGltZVVzYWdlQnlMaWZlUGVyaW9kc3EAfgAMMzEVUXQAEHRpbWVVc2FnZUdyb3VwZWRzcQB+AAx9it7tdAADc2V4c3EAfgAMqyl+rXQADGlzSW5zdGFuY2VPZnNxAH4ADO4ca9R0AAY8aW5pdD5zcQB+AAyA/0NfdAAFc3BhcmtzcQB+AAzlnyuUdAACPT1zcQB+AAw65YLadAAFY2xvbmVzcQB+AAxYJbpddAAYdGltZVVzYWdlR3JvdXBlZFNxbFF1ZXJ5c3EAfgAMcCV92nQACGRmU2NoZW1hc3EAfgAMmrx/lXQABiRpbml0JHNxAH4ADF3qxJ90ABV0aW1lVXNhZ2VTdW1tYXJ5VHlwZWRzcQB+AAyZylxudAAOY29weSRkZWZhdWx0JDNzcQB+AAw8PmcddAAEY29weXNxAH4ADIk06910AAh0b1N0cmluZ3NxAH4ADIWCzrh0AAxwcmltYXJ5TmVlZHNzcQB+AAyhfpX8dAACIT1zcQB+AAyXrZYTdAAIZ2V0Q2xhc3NzcQB+AAwufINUdAAOY29weSRkZWZhdWx0JDFzcQB+AAzT3BnsdAAOY29weSRkZWZhdWx0JDZzcQB+AAz1wZzXdAACbmVzcQB+AAybwt8SdAACZXFzcQB+AAxLHOcJdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMkLDSmHQABW90aGVyc3EAfgAM07R1SnQAAiMjc3EAfgAMy4H1LHQACGZpbmFsaXplc3EAfgAMXBN6anQADnByb2R1Y3RFbGVtZW50c3EAfgAMZGHy6nQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AhXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAE3RpbWV1c2FnZS5UaW1lVXNhZ2V1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AJ1zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AhUwACWluaGVyaXRlZHEAfgCFTAAHcGFyZW50c3EAfgCFeHEAfgCic3EAfgCddXEAfgCAAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgCGcQB+AI91cQB+AJAAAAAAc3EAfgCSAHEAfgA7dXEAfgCVAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AKF0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgChc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgC9dXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AqnhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AmHQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AsVsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AoXNxAH4AsHQABUFycmF5cQB+ALZ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AsHQABlN0cmluZ3NxAH4AtHNxAH4At3VxAH4AugAAAANzcQB+ALx0AARqYXZhc3EAfgC8dAAEbGFuZ3EAfgDBc3EAfgCddXEAfgCAAAAAAHNxAH4AnXVxAH4A1QAAAAJzcQB+ALB0AAZPYmplY3RxAH4A2XNxAH4AsHQAA0FueXEAfgC2c3EAfgCCcQB+AI91cQB+AJAAAAAAc3EAfgCSAHQAFnRpbWV1c2FnZS5UaW1lVXNhZ2VSb3d1cQB+AJUAAAAAfnEAfgCXdAAIQ2xhc3NEZWZ1cQB+AJsAAAAAc3EAfgCdcQB+AKNzcQB+AJ1zcQB+AKVzcQB+AJ11cQB+AIAAAAAAc3EAfgCddXEAfgCAAAAAAHNxAH4AnXVxAH4A1QAAAAZzcQB+ALB0AAxTZXJpYWxpemFibGVzcQB+ALRzcQB+ALd1cQB+ALoAAAACc3EAfgC8cQB+AL9xAH4AwXNxAH4AsHEAfgD6c3EAfgC0c3EAfgC3dXEAfgC6AAAAA3NxAH4AvHEAfgDdc3EAfgC8dAACaW9xAH4AwXNxAH4AsHQAB1Byb2R1Y3RxAH4A+3NxAH4AsHQABkVxdWFsc3EAfgD7c3EAfgCwcQB+AOVzcQB+ALRzcQB+ALd1cQB+ALoAAAADc3EAfgC8cQB+AN1zcQB+ALxxAH4A33EAfgDBc3EAfgCwcQB+AOdxAH4A+3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACXRpbWV1c2FnZXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbmVdLiF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABtQzpcVXNlcnNcZGlib3NlXHNvdXJjZVxyZXBvc1xCaWctRGF0YS1BbmFseXNpcy1XaXRoLVNjYWxhLUFuZC1TcGFya1xXZWVrNFx0aW1ldXNhZ2VcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFDGbDzuRCykhu0Or7dKAZtzBjwm2
+external apis:
+0 items
+source infos:
+1 items
+C:\Users\dibose\source\repos\Big-Data-Analysis-With-Scala-And-Spark\Week4\timeusage\src\main\scala\timeusage\TimeUsage.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbmVdLiF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAbUM6XFVzZXJzXGRpYm9zZVxzb3VyY2VccmVwb3NcQmlnLURhdGEtQW5hbHlzaXMtV2l0aC1TY2FsYS1BbmQtU3BhcmtcV2VlazRcdGltZXVzYWdlXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
